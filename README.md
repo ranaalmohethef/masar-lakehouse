@@ -2,8 +2,8 @@
 
 A small lakehouse built as the project of the course **SDA-DSC-214: Modern Data Engineering for AI Systems** at SDAIA Academy.
 
-- Author: `<your name>`
-- Date: `<date>`
+- Author: `Rana Almohethef`
+- Date: `10-11-2026`
 - Official SDAIA Academy GitHub: [github.com/SDAIAAcademy](https://github.com/SDAIAAcademy)
 - Course starting repository: [altherwy/masar-lakehouse](https://github.com/altherwy/masar-lakehouse)
 
